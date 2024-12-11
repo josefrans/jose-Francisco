@@ -264,7 +264,7 @@ p{
     position: relative;
     margin: auto;
 }
-
+/*inicio -----cookies---*/
 #cajacookies {
     
     background-color: rgb(61, 60, 60);
@@ -277,7 +277,7 @@ p{
     margin: auto;
     z-index:60;
     display: block;
-    width: 150px;
+    width: 60%;
 
   }
   #cajacookies p{
@@ -286,11 +286,13 @@ p{
        
   }
   #cajacookies a{
-      color: rgb(127, 101, 221);
+      color: rgb(201, 201, 202);
   }
   
   #cajacookies button {
-    color: rgb(36, 35, 35);
+    color: rgb(47, 47, 48);
+    background-color: rgb(197, 197, 199);
+    
     width: 100%;
     margin-top: 6px;
   }
